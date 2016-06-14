@@ -37,12 +37,6 @@
 				</div>
 				<div class="collapse navbar-collapse navbar-left">
 
-					<div class="btn-group" role="group">
-						<button class="navbar-btn btn btn-default" title="Grid View"><i class="fa fa-grid"></i></button>
-						<button class="navbar-btn btn btn-default" title="List View"><i class="fa fa-list"></i></button>
-						<button class="navbar-btn btn btn-default" title="Column View"><i class="fa fa-star"></i></button>
-					</div>
-
 				</div>
 				<!-- nav-collapse -->
 				
