@@ -1,0 +1,25 @@
+{
+  "name": "quran-html",
+  "homepage": "https://github.com/ilman/quran-html",
+  "authors": [
+    "Ilman Maulana <ilman.maulana@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.1"
+  },
+  "devDependencies": {
+    
+  }
+}

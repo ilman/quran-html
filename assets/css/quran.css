@@ -1,0 +1,88 @@
+body {
+  background: #fefbf0;
+}
+#header {
+  background: #3c5126;
+  color: #f5f5f5;
+  margin: 0;
+  background-image: linear-gradient(0deg, #3c5126, #567436);
+  box-shadow: inset 0 2px 0 #89b35d;
+}
+#header a {
+  color: #f5f5f5;
+}
+#header .navbar-brand {
+  float: none;
+  display: block;
+  text-align: center;
+}
+#subheader {
+  background: #bdbdbd;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  background-image: linear-gradient(0deg, #bdbdbd, #f0f0f0);
+}
+#subheader a {
+  color: #333;
+}
+#subheader h2 {
+  font-size: 16px;
+  line-height: 1.4.em;
+  font-weight: bold;
+  color: #333;
+}
+#content .container {
+  padding: 0;
+}
+#content .table {
+  font-weight: bold;
+  margin: 0;
+}
+#content .table tr:nth-child(even) {
+  background: #fdf7e6;
+}
+#content .table td {
+  padding: 12px 8px;
+  border-color: #fff;
+}
+#content .table td p:last-child {
+  margin-bottom: 0;
+}
+#content .table .col-num {
+  background: #e4e2d4;
+}
+#content .table .col-sound {
+  background: #587545;
+}
+#content .table .col-bookmark {
+  background: #f6f1e4;
+}
+#content .table .col-juz {
+  background: #e7dcbe;
+}
+#content .table .col-sajadah {
+  background: #ceb98d;
+}
+#content .table .col-sm {
+  width: 4em;
+  text-align: center;
+}
+#content .table thead {
+  color: #fefbf0;
+}
+#content .table thead .col-sound {
+  background: #3e5331;
+}
+#content .table thead .col-bookmark {
+  background: #afaba2;
+}
+#content .table thead .col-title {
+  background: #afa795;
+}
+#content .table thead .col-juz {
+  background: #a49c87;
+}
+#content .table thead .col-sajadah {
+  background: #978766;
+}
